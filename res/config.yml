@@ -1,0 +1,17 @@
+## pattern: 'world;name;x z'
+towns:
+  - 'Dragoncraft;Ydrai;-656 802'
+
+## max range from player to render the NPC
+max-check-range: 100
+
+## valid cursors:
+# WHITE_POINTER
+# GREEN_POINTER
+# RED_POINTER
+# BLUE_POINTER
+# WHITE_CROSS
+active-quest: 'GREEN_POINTER'
+side-quest: 'BLUE_POINTER'
+npc: 'WHITE_POINTER'
+town: 'WHITE_CROSS'

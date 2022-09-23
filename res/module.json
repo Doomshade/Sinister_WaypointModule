@@ -1,0 +1,9 @@
+{
+  "name": "Waypoints",
+  "main": "git.doomshade.waypoints.WaypointModule",
+  "description": "Waypoints for active quests",
+  "version": "1.0",
+  "author": "Doomshade",
+  "website": "https://helheim.cz/",
+  "depend": ["Quester", "Quester Npcs", "Citizens"]
+}
